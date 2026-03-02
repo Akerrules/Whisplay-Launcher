@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Spotify Player",
+    "script": "../Whisplay-Spotify-app/spotify_player.py",
+    "description": "Vinyl album art + playback control",
+    "icon": "music",
+    "color": [29, 185, 84]
+  },
+  {
+    "name": "Flappy Bird",
+    "script": "../Whisplay-FlappyBird/flappy_bird.py",
+    "description": "Tap to flap!",
+    "icon": "bird",
+    "color": [255, 200, 50]
+  },
+  {
+    "name": "Settings",
+    "script": "settings/settings.py",
+    "description": "Brightness & volume",
+    "icon": "settings",
+    "color": [100, 120, 255]
+  }
+]
